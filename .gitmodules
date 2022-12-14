@@ -5,7 +5,7 @@
 [submodule "deps/catkin/lgmath"]
 	path = deps/catkin/lgmath
 	url = https://github.com/hflemmen/lgmath.git
-	branch = develop
+	branch = master
 [submodule "deps/catkin/catkin_optional"]
 	path = deps/catkin/catkin_optional
 	url = https://github.com/utiasASRL/catkin_optional.git
